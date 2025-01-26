@@ -8,3 +8,4 @@ fourth commit
 final version
 
 new non conflict part
+changes from feature
