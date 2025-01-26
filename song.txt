@@ -6,3 +6,5 @@ second commit in feature
 third commit
 fourth commit
 final version
+
+new non conflict part
